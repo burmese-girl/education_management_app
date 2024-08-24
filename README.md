@@ -21,7 +21,7 @@ A comprehensive education management system built with Django, designed to manag
 ### Prerequisites
 
 - Python 3.10+
-- Django 5.1
+- Django 5.0.5
 - Git
 
 ### Clone the Repository
